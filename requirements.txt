@@ -1,0 +1,4 @@
+hdf5storage
+numpy
+matplotlib
+sklearn
